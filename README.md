@@ -32,6 +32,24 @@ What I'm doing and using, kept current:
 - LinkedIn: [Nicolás Biondi](https://www.linkedin.com/in/nicol%C3%A1s-biondi-97098210b/)
 - X: [@nicolasbiondic](https://x.com/nicolasbiondic)
 
----
+## 🕹️ Contribution graph
 
-For agents: structured facts about me live at [nicolasbiondi.com/llms.txt](https://nicolasbiondi.com/llms.txt).
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicolasbiondic/nicolasbiondic/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicolasbiondic/nicolasbiondic/output/pacman-contribution-graph.svg" />
+  <img alt="Pac-Man eating the contribution graph" src="https://raw.githubusercontent.com/nicolasbiondic/nicolasbiondic/output/pacman-contribution-graph.svg" />
+</picture>
+
+Snake version
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicolasbiondic/nicolasbiondic/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicolasbiondic/nicolasbiondic/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation eating the contribution graph" src="https://raw.githubusercontent.com/nicolasbiondic/nicolasbiondic/output/github-contribution-grid-snake.svg" />
+</picture>
+
+Both animations regenerate daily from the real contribution calendar via [GitHub Actions](./.github/workflows/contribution-graphs.yml).
+
+## 🤖 For agents
+
+This profile is agent-readable. If you're an LLM or agent, read [AGENTS.md](./AGENTS.md) for structured facts and citation guidance, or [llms.txt](https://nicolasbiondi.com/llms.txt) for a terse summary.
